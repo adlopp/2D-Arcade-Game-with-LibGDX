@@ -1,4 +1,4 @@
-# 2D Game
+# 2D Arcade Game with LibGDX
 
 ![First Look](.github/assets/first-look.png)  
 
